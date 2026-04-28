@@ -19,3 +19,13 @@ body{
     height: 3em;
 
 }
+
+.caregory-bg-img {
+     background-image: url(../img/star.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    /* background-size: 600px; */
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
