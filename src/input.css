@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body{
+    background-image: url(../img/Decore.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 600px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.btn{
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1em;
+    height: 3em;
+
+}
